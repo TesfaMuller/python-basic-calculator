@@ -1,6 +1,6 @@
 # Python Basic Calculator
 
-This is a simple Python calculator that performs the four basic operations:
+This is a Python calculator that performs the four basic operations:
 - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
